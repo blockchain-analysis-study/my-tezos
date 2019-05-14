@@ -1,4 +1,9 @@
-Tezos
+Tezos [这是一个fork了tezos代码并加上中文注释的库]
+用最新的 maste分支 的2019.05.14号 上午9点多的那个 pull request：
+Everywhere: use built-in return operators 
+进行的分析： commit sha： 9ba57b81584f2c3554ca608864519cb24859d87a
+
+https://github.com/tezos/tezos/commit/9ba57b81584f2c3554ca608864519cb24859d87a
 =====
 
 The Project
